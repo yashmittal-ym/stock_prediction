@@ -19,7 +19,6 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
