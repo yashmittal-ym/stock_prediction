@@ -20,9 +20,6 @@
   * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
