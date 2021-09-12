@@ -1,14 +1,7 @@
 # Stock-Prices-Prediction-ML-Flask-Dashboard
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
-    <img src="https://github.com/Zeeshanahmad4/ML--RMSE-with-graphs/blob/master/digital-brain-ai-machine-learning-artificial-intelligence-512.png" alt="Logo" width="110" height="130">
-  </a>
-  <h3 align="center">Stock Prices Prediction ML with Flask Dashboard</h3>
-</p>
-
+https://stock-prediction-101803457.herokuapp.com/
+## Web link
+![heroku](https://stock-prediction-101803457.herokuapp.com/)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
