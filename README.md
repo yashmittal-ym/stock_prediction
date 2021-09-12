@@ -1,7 +1,7 @@
 # Stock-Prices-Prediction-ML-Flask-Dashboard
-https://stock-prediction-101803457.herokuapp.com/
+
 ## Web link
-![heroku](https://stock-prediction-101803457.herokuapp.com/)
+https://stock-prediction-101803457.herokuapp.com/
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
